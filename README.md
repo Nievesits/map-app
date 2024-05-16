@@ -1,5 +1,8 @@
 # MapsApp
 
+# Descripción:
+App de mapas con llamada a una API de MapBox a través de un token de acceso. Creación de marcadores que se guardan en el LocalStorage. 
+
 No usar directamente en AngularCLI (a menos que estén creadas las variables de entorno), ya que las variables de entorno se crean basados en el .env
 
 ## Pasos:
